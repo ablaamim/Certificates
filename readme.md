@@ -1,9 +1,19 @@
 </p>
 <p align="center">  
-<img src="https://www.hackerrank.com/certificates/4b7411ae064c" width="1200">
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Problem%20Solving%20Basic.png" width="1200">
 <p/>
 
 </p>
 <p align="center">  
-<img src="https://www.hackerrank.com/certificates/22ecc6ae8bcc" width="1200">
+<img src="" width="1200">
+<p/>
+
+</p>
+<p align="center">  
+<img src="" width="1200">
+<p/>
+
+</p>
+<p align="center">  
+<img src="" width="1200">
 <p/>
