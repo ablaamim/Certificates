@@ -17,3 +17,9 @@
 <p align="center">  
 <img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Java.png" width="1200">
 <p/>
+
+
+</p>
+<p align="center">  
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/javaScript.png" width="1200">
+<p/>
