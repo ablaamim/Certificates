@@ -36,3 +36,8 @@
 <img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/React-Basic.png" width="800">
 <p/>
 
+
+</p>
+<p align="center">  
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Angular-Basic.png" width="800">
+<p/>
