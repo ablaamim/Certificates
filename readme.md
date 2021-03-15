@@ -1,16 +1,16 @@
 </p>
 <p align="center">  
-<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Problem%20Solving%20Basic.png" width="1200">
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Problem%20Solving%20Basic.png" width="800">
 <p/>
 
 </p>
 <p align="center">  
-<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Basic.png" width="1200">
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Basic.png" width="800">
 <p/>
 
 </p>
 <p align="center">  
-<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/cert-21098635-1157.png" width="1200">
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/cert-21098635-1157.png" width="800">
 <p/>
 
 </p>
@@ -21,5 +21,11 @@
 
 </p>
 <p align="center">  
-<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/javaScript.png" width="1200">
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/javaScript.png" width="800">
+<p/>
+
+
+</p>
+<p align="center">  
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Rest_API.png" width="800">
 <p/>
