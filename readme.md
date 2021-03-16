@@ -36,6 +36,11 @@
 <img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Rest_API.png" width="800">
 <p/>
 
+</p>
+<p align="center">  
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Python%20Data%20Structures.png" width="1200">
+<p/>
+
 
 </p>
 <p align="center">  
