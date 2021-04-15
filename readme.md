@@ -16,6 +16,11 @@
 
 </p>
 <p align="center">  
+<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Certification_alaamimi_data-analysis-with-python-v7_-_2021-04-15_21.42.42.png" width="800">
+<p/>
+
+</p>
+<p align="center">  
 <img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Scientific_Computing_With_Python.png" width="800">
 <p/>
 
@@ -51,9 +56,4 @@
 </p>
 <p align="center">  
 <img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Angular-Basic.png" width="800">
-<p/>
-
-</p>
-<p align="center">  
-<img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Certification_alaamimi_data-analysis-with-python-v7_-_2021-04-15_21.42.42.png" width="800">
 <p/>
