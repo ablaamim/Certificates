@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/Coursera%20EU8UYY3DT8YK.pdf" width="800">
+<img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/Coursera%20EU8UYY3DT8YK_page-0001.jpg" width="800">
 </p>
 
 ---
