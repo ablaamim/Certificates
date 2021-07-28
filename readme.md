@@ -1,6 +1,13 @@
 ---
 
 </p>
+<p align="center">
+<img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/Coursera%2025Z3FUY33TQX_page-0001.jpg" width="800">
+</p>
+
+---
+
+</p>
 <p align="center">  
 <img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Problem%20Solving%20Basic.png" width="800">
 <p/>
