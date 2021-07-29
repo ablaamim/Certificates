@@ -1,7 +1,7 @@
 ---
 </p>
 <p align="center">
-<img src="" width="800">
+<img src=""https://github.com/alaamimi/Certificates/blob/master/Ressources/Prob_solving_intermediate.png width="800">
 <p/>
 
 ---
