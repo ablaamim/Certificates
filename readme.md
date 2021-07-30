@@ -42,6 +42,12 @@
 ---
 
 </p>
+<p align="center">
+<img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/Coursera%20utilize%20linkedIn%20for%20career%20search.jpg" width="800">
+<p/>
+---
+
+</p>
 <p align="center">  
 <img src="https://github.com/Alaamimi/Certificates/blob/master/Ressources/Certification_alaamimi_data-analysis-with-python-v7_-_2021-04-15_21.42.42.png" width="800">
 <p/>
