@@ -23,6 +23,13 @@
 
 </p>
 <p align="center">
+<img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/SQLINTERMEDIATE.png" width="800">
+</p>
+
+---
+
+</p>
+<p align="center">
 <img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/Coursera%20EU8UYY3DT8YK_page-0001.jpg" width="800">
 </p>
 
