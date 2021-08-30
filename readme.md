@@ -24,6 +24,8 @@
 </p>
 <p align="center">
 <img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/SQLINTERMEDIATE.png" width="800">
+## Commits go grrrrrrrrrrr! ![](https://komarev.com/ghpvc/?username=alaamimi&label=Profile+views&color=lightgrey&style=flat)
+
 </p>
 
 ---
