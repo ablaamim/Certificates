@@ -9,6 +9,13 @@
 
 </p>
 <p align="center">
+<img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/ABDESSAMAD%20LAAMIMI%20-%202021-09-15-1.jpg" width="800">
+</p>
+
+---
+
+</p>
+<p align="center">
 <img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/jsintermediate.png" width="800">
 </p>
 
