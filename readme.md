@@ -14,6 +14,14 @@
 
 ---
 
+
+</p>
+<p align="center">
+<img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/Prob_solving_intermediate.png" width="800">
+</p>
+
+---
+
 </p>
 <p align="center">
 <img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/jsintermediate.png" width="800">
