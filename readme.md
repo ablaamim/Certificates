@@ -17,7 +17,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/Prob_solving_intermediate.png" width="800">
+<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/CERTIF%20C.jpg" width="800">
 </p>
 
 ---
