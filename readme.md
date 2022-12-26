@@ -2,6 +2,13 @@
 
 </p>
 <p align="center">
+<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/cybrary-cert-palo-alto-networks-secure-business-systems-administration-v1.pdf" width="800">
+</p>
+
+---
+
+</p>
+<p align="center">
 <img src="https://github.com/alaamimi/Certificates/blob/master/Ressources/Prob_solving_intermediate.png" width="800">
 </p>
 
@@ -18,6 +25,14 @@
 </p>
 <p align="center">
 <img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/CERTIF%20C.jpg" width="800">
+</p>
+
+---
+
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/cybrary-cert-introduction-to-it-and-cybersecurity.pdf" width="800">
 </p>
 
 ---
