@@ -28,7 +28,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/cybrary-cert-introduction-to-it-and-cybersecurity.pdf" width="800">
+<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/it%20and%20cyber.pdf" width="800">
 </p>
 
 ---
