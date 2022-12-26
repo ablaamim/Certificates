@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/admini.pdf" width="800">
+<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/admini_page-0001.jpg" width="800">
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 </p>
 <p align="center">
-<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/it%20and%20cyber.pdf" width="800">
+<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/it%20and%20cyber_page-0001.jpg" width="800">
 </p>
 
 ---
