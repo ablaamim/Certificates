@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/cybrary-cert-palo-alto-networks-secure-business-systems-administration-v1.pdf" width="800">
+<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/admini.pdf" width="800">
 </p>
 
 ---
