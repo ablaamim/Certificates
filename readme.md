@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<img src="https://github.com/ablaamim/Certificates/blob/master/Ressources/admini.pdf" width="800">
+![](https://github.com/ablaamim/Certificates/blob/master/Ressources/admini.pdf)
 </p>
 
 ---
